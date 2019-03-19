@@ -16,7 +16,7 @@ training set, and another for the validation. It is used in our upcoming paper "
 
 
 
-you can fork this repo or download form [baiduyun](https://pan.baidu.com/s/1riU1BdYEFLNiXdQ3oOKUwg) Extraction code 513a 
+you can from [baiduyun](https://pan.baidu.com/s/1riU1BdYEFLNiXdQ3oOKUwg) Extraction code 513a 
  
 
 -  
