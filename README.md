@@ -19,10 +19,9 @@ training set, and another for the validation. It is used in our upcoming paper "
 you can download the dataset from [baiduyun](https://pan.baidu.com/s/1riU1BdYEFLNiXdQ3oOKUwg) with Extraction code 513a 
 
 
-or [Gogle Drive (https://drive.google.com/open?id=13LBYN6eTfV9G9xdgZtdpNHrXSA8mpv-2](https://drive.google.com/open?id=13LBYN6eTfV9G9xdgZtdpNHrXSA8mpv-2)
- 
+or [Gogle Drive](https://drive.google.com/open?id=13LBYN6eTfV9G9xdgZtdpNHrXSA8mpv-2) 
 
--  
+
 
 **If you have any difficult in access these datasets,** contact me by [huangyibin2014@ia.ac.cn](huangyibin2014@ia.ac.cn)
 
@@ -36,6 +35,4 @@ or [Gogle Drive (https://drive.google.com/open?id=13LBYN6eTfV9G9xdgZtdpNHrXSA8mp
 
 
 
-
-
-"# Textures-Dataset" 
+ 
