@@ -16,7 +16,7 @@ training set, and another for the validation. It is used in our upcoming paper "
 
 
 
-you can from [baiduyun](https://pan.baidu.com/s/1riU1BdYEFLNiXdQ3oOKUwg) Extraction code 513a 
+you can download the dataset from [baiduyun](https://pan.baidu.com/s/1riU1BdYEFLNiXdQ3oOKUwg) with Extraction code 513a 
  
 
 -  
